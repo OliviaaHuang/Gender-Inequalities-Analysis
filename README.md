@@ -22,4 +22,7 @@ Used bar chart to show the number of male and female students like different sub
 Used stacked column chart to show male and female employees' perceptions of factors that contribute to gender inequality.
 <img width="697" alt="截屏2024-01-19 23 02 59" src="https://github.com/OliviaaHuang/Gender-inequalities-analysis/assets/152938995/64ce5214-5024-46ef-a63e-526575c61113">
 
+## 4. Conclusion
+In this project, the main factors causing gender inequality in STEM fields are behavioral differences between boys and girls and stereotypes about female employees in the workplace.  
+
 
