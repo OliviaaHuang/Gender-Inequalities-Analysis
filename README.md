@@ -21,7 +21,7 @@ Files beginning with `c1 to c3` used bar chart to show the number of male and fe
 
 <img width="1320" alt="截屏2024-01-19 23 00 11" src="https://github.com/OliviaaHuang/Gender-inequalities-analysis/assets/152938995/336b4f6c-0d27-4953-bf4e-f9d00fe44de7">
 
-Files beginning with `f1` used stacked column chart to show male and female employees' perceptions of factors that contribute to gender inequality.  
+Files beginning with `f1` used stacked column chart to show male and female employees' perceptions of four factors(such as differences in behavior, differences in pay and promotion prospects, stereotypes, family-work imbalance) that contribute to gender inequality.  
 
 <img width="697" alt="截屏2024-01-19 23 02 59" src="https://github.com/OliviaaHuang/Gender-inequalities-analysis/assets/152938995/64ce5214-5024-46ef-a63e-526575c61113">
 
