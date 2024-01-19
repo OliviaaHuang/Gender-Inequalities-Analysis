@@ -8,7 +8,8 @@ Here is the data source: [Gender Data Source](./gender.csv),[Geographic Informat
 
 ## 2. Tools Used
 
-Used `Pandas`to clean the data
+Used `Pandas`to clean the data  
+
 Used `Pyecharts`to visualize the data
 
 ## 3.Data Visualization
