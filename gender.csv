@@ -1,0 +1,146 @@
+﻿Title,HE students by CAH level 1 and sex and academic year,"",""
+Location,UK,"",""
+Academic years,2019/20 to 2021/22,"",""
+Data source,HESA,"",""
+Data collection,"051, 054","",""
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/chart-11,"",""
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/chart-11.csv,"",""
+Licence,Creative Commons Attribution 4.0 International Licence,"",""
+Code page,Unicode UTF-8,"",""
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.,"",""
+"","","",""
+Last updated,Jan-23,"",""
+"","","",""
+CAH level 1,Sex,Academic Year,Number
+01 Medicine and dentistry,Female,2019/20,42735
+01 Medicine and dentistry,Male,2019/20,27670
+01 Medicine and dentistry,Female,2020/21,47435
+01 Medicine and dentistry,Male,2020/21,29445
+01 Medicine and dentistry,Female,2021/22,51095
+01 Medicine and dentistry,Male,2021/22,30390
+02 Subjects allied to medicine,Female,2019/20,233205
+02 Subjects allied to medicine,Male,2019/20,61510
+02 Subjects allied to medicine,Female,2020/21,269305
+02 Subjects allied to medicine,Male,2020/21,69445
+02 Subjects allied to medicine,Female,2021/22,291555
+02 Subjects allied to medicine,Male,2021/22,74125
+03 Biological and sport sciences,Female,2019/20,55405
+03 Biological and sport sciences,Male,2019/20,57420
+03 Biological and sport sciences,Female,2020/21,58050
+03 Biological and sport sciences,Male,2020/21,59050
+03 Biological and sport sciences,Female,2021/22,58155
+03 Biological and sport sciences,Male,2021/22,59030
+04 Psychology,Female,2019/20,96660
+04 Psychology,Male,2019/20,22180
+04 Psychology,Female,2020/21,109505
+04 Psychology,Male,2020/21,25265
+04 Psychology,Female,2021/22,114000
+04 Psychology,Male,2021/22,25975
+05 Veterinary sciences,Female,2019/20,8695
+05 Veterinary sciences,Male,2019/20,1945
+05 Veterinary sciences,Female,2020/21,9430
+05 Veterinary sciences,Male,2020/21,2100
+05 Veterinary sciences,Female,2021/22,10035
+05 Veterinary sciences,Male,2021/22,2070
+"06 Agriculture, food and related studies",Female,2019/20,10735
+"06 Agriculture, food and related studies",Male,2019/20,5995
+"06 Agriculture, food and related studies",Female,2020/21,12070
+"06 Agriculture, food and related studies",Male,2020/21,6325
+"06 Agriculture, food and related studies",Female,2021/22,12575
+"06 Agriculture, food and related studies",Male,2021/22,7035
+07 Physical sciences,Female,2019/20,27585
+07 Physical sciences,Male,2019/20,38795
+07 Physical sciences,Female,2020/21,29045
+07 Physical sciences,Male,2020/21,39005
+07 Physical sciences,Female,2021/22,29300
+07 Physical sciences,Male,2021/22,37670
+09 Mathematical sciences,Female,2019/20,17360
+09 Mathematical sciences,Male,2019/20,29295
+09 Mathematical sciences,Female,2020/21,18010
+09 Mathematical sciences,Male,2020/21,30405
+09 Mathematical sciences,Female,2021/22,17435
+09 Mathematical sciences,Male,2021/22,29560
+10 Engineering and technology,Female,2019/20,34890
+10 Engineering and technology,Male,2019/20,140225
+10 Engineering and technology,Female,2020/21,36875
+10 Engineering and technology,Male,2020/21,146060
+10 Engineering and technology,Female,2021/22,37965
+10 Engineering and technology,Male,2021/22,147455
+11 Computing,Female,2019/20,26305
+11 Computing,Male,2019/20,105610
+11 Computing,Female,2020/21,32480
+11 Computing,Male,2020/21,120975
+11 Computing,Female,2021/22,37305
+11 Computing,Male,2021/22,126465
+"13 Architecture, building and planning",Female,2019/20,22665
+"13 Architecture, building and planning",Male,2019/20,36875
+"13 Architecture, building and planning",Female,2020/21,23970
+"13 Architecture, building and planning",Male,2020/21,38195
+"13 Architecture, building and planning",Female,2021/22,24410
+"13 Architecture, building and planning",Male,2021/22,39105
+"26 Geography, earth and environmental studies (natural sciences)",Female,2019/20,16415
+"26 Geography, earth and environmental studies (natural sciences)",Male,2019/20,15300
+"26 Geography, earth and environmental studies (natural sciences)",Female,2020/21,17005
+"26 Geography, earth and environmental studies (natural sciences)",Male,2020/21,15335
+"26 Geography, earth and environmental studies (natural sciences)",Female,2021/22,17635
+"26 Geography, earth and environmental studies (natural sciences)",Male,2021/22,15500
+15 Social sciences,Female,2019/20,172890
+15 Social sciences,Male,2019/20,87120
+15 Social sciences,Female,2020/21,188365
+15 Social sciences,Male,2020/21,93725
+15 Social sciences,Female,2021/22,190485
+15 Social sciences,Male,2021/22,95140
+16 Law,Female,2019/20,78705
+16 Law,Male,2019/20,43990
+16 Law,Female,2020/21,87805
+16 Law,Male,2020/21,50170
+16 Law,Female,2021/22,90625
+16 Law,Male,2021/22,51540
+17 Business and management,Female,2019/20,199365
+17 Business and management,Male,2019/20,213105
+17 Business and management,Female,2020/21,225915
+17 Business and management,Male,2020/21,248675
+17 Business and management,Female,2021/22,249135
+17 Business and management,Male,2021/22,280875
+19 Language and area studies,Female,2019/20,69230
+19 Language and area studies,Male,2019/20,27090
+19 Language and area studies,Female,2020/21,66895
+19 Language and area studies,Male,2020/21,25250
+19 Language and area studies,Female,2021/22,63445
+19 Language and area studies,Male,2021/22,23675
+"20 Historical, philosophical and religious studies",Female,2019/20,46920
+"20 Historical, philosophical and religious studies",Male,2019/20,38835
+"20 Historical, philosophical and religious studies",Female,2020/21,46890
+"20 Historical, philosophical and religious studies",Male,2020/21,38750
+"20 Historical, philosophical and religious studies",Female,2021/22,45940
+"20 Historical, philosophical and religious studies",Male,2021/22,36705
+22 Education and teaching,Female,2019/20,100150
+22 Education and teaching,Male,2019/20,29525
+22 Education and teaching,Female,2020/21,104995
+22 Education and teaching,Male,2020/21,30795
+22 Education and teaching,Female,2021/22,105660
+22 Education and teaching,Male,2021/22,30005
+23 Combined and general studies,Female,2019/20,26280
+23 Combined and general studies,Male,2019/20,15190
+23 Combined and general studies,Female,2020/21,28265
+23 Combined and general studies,Male,2020/21,16190
+23 Combined and general studies,Female,2021/22,29480
+23 Combined and general studies,Male,2021/22,18045
+"24 Media, journalism and communications",Female,2019/20,28615
+"24 Media, journalism and communications",Male,2019/20,17800
+"24 Media, journalism and communications",Female,2020/21,28895
+"24 Media, journalism and communications",Male,2020/21,18585
+"24 Media, journalism and communications",Female,2021/22,28980
+"24 Media, journalism and communications",Male,2021/22,18950
+"25 Design, and creative and performing arts",Female,2019/20,118520
+"25 Design, and creative and performing arts",Male,2019/20,67585
+"25 Design, and creative and performing arts",Female,2020/21,120355
+"25 Design, and creative and performing arts",Male,2020/21,68710
+"25 Design, and creative and performing arts",Female,2021/22,121205
+"25 Design, and creative and performing arts",Male,2021/22,67275
+"26 Geography, earth and environmental studies (social sciences)",Female,2019/20,7025
+"26 Geography, earth and environmental studies (social sciences)",Male,2019/20,4895
+"26 Geography, earth and environmental studies (social sciences)",Female,2020/21,7235
+"26 Geography, earth and environmental studies (social sciences)",Male,2020/21,5070
+"26 Geography, earth and environmental studies (social sciences)",Female,2021/22,7010
+"26 Geography, earth and environmental studies (social sciences)",Male,2021/22,5185
