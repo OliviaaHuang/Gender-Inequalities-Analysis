@@ -10,7 +10,7 @@ Here is the data source: [Gender Data Source](./a2_gender.csv),[Geographic Infor
 
 Used `Pandas` and `Numpy` to clean the data  
 
-Used `Pyecharts` and `Excel` to visualize the data
+Used `Json`, `Requests`, `Pyecharts` and `Excel` to visualize the data
 
 ## 3.Data Visualization
 Files beginning with `d1 to d8` used 3D map to show the number of student in each country receiving distance education in the UK from 2014 to 2021.  
