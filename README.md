@@ -8,6 +8,8 @@ Here is the data source: [Gender Data Source](./a2_gender.csv),[Geographic Infor
 
 ## 2. Tools Used
 
+`Pycharm` is used as IDE  
+
 Used `Pandas` and `Numpy` to clean the data  
 
 Used `Json`, `Requests`, `Pyecharts` and `Excel` to visualize the data
