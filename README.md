@@ -27,7 +27,8 @@ I used `Excel` to build stacked column chart. Files beginning with `f1` used sta
 
 <img width="697" alt="截屏2024-01-19 23 02 59" src="https://github.com/OliviaaHuang/Gender-inequalities-analysis/assets/152938995/64ce5214-5024-46ef-a63e-526575c61113">
 
-I used `Matplotlib` to build radar
+I used `Matplotlib` to build radar  
+
 <img width="538" alt="截屏2024-02-02 15 55 35" src="https://github.com/OliviaaHuang/Gender-Inequalities-Analysis/assets/152938995/3de7b3ef-7e8a-4c67-9c04-c2cf6c3851b1">
 
 
